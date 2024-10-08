@@ -112,18 +112,3 @@
 ### Design and Prototyping
 
 [![My Skills](https://skillicons.dev/icons?i=figma,blender,autocad)](https://skillicons.dev)
-
-
-<!-- Github Stats -->
-
-# ⭐ GitHub Stats
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=BryanHdezL&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats" style="display: block; width:60%; height:auto;" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BryanHdezL&theme=dark" alt="My GitHub Streak" style="display: block; width:60%; height:auto;" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanHdezL&layout=compact&show_icons=true&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="Top Languages" style="display: block; width:60%; height:auto;" />
-
-</div>
