@@ -46,32 +46,22 @@
 
 # 🌟 About Me
 
-<div>
-  <p style="font-size: 26px; text-align: justify; margin: 0;">
-      I'm a passionate <b style="font-weight: 800;">Fullstack Developer</b> and a dedicated final-semester student of <b style="font-weight: 800;">Computer Systems Engineering</b>. My love for programming and technology drives me to continuously seek new knowledge and refine my skills.
-  </p>
-</div>
+
+#### I'm a passionate ***Fullstack Developer*** and a dedicated final-semester student of ***Computer Systems Engineering***. My love for programming and technology drives me to continuously seek new knowledge and refine my skills.
 
 <!-- Projects -->
 
 # 🚀 Projects
 
-<div>
-  <ul style="font-size: 26px; text-align: justify; margin: 0;">
-    <li> <b style="font-weight: 800;">Innovative Solutions:</b> Working on various projects that apply my expertise in software development.</li>
-    <li> <b style="font-weight: 800;">Open Source:</b> Collaborating with the tech community to contribute and learn from others. </li>
-  </ul>
-</div>
+#### ***Innovative Solutions:*** Working on various projects that apply my expertise in software development.
+
+#### ***Open Source:*** Collaborating with the tech community to contribute and learn from others.
 
 <!-- Hobbies -->
 
 # 🕥 Hobbies
 
-<div>
-  <p style="font-size: 26px; text-align: justify; margin: 0;">
-      When I'm not coding, you'll find me exploring new tools and technologies or sharing insights with fellow enthusiasts.
-  </p>
-</div>
+#### When I'm not coding, you'll find me exploring new tools and technologies or sharing insights with fellow enthusiasts.
 
 <!-- Skills -->
 
@@ -89,12 +79,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,md,npm,vscode,postman,powershell,netlify,notion)](https://skillicons.dev)
 
-<!-- Cloud Services and DevOps -->
-
-### Cloud Services and DevOps
-
-[![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
-
 <!-- Programming Languages -->
 
 ### Programming Languages
@@ -107,8 +91,15 @@
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
-<!-- Design and Prototyping -->
+<!-- Cloud Services & DevOps -->
 
-### Design and Prototyping
+### DevOps
+
+[![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
+
+
+<!-- Design & Prototyping -->
+
+### Design & Prototyping
 
 [![My Skills](https://skillicons.dev/icons?i=figma,blender,autocad)](https://skillicons.dev)
