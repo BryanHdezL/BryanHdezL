@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Node / React
+node_modules/
+dist/
+build/
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDEs
+.vscode/
+.idea/
